@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+websockets
+openai
+python-dotenv
+motor
+httpx
+twilio
+python-multipart
+numpy
